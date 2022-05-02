@@ -1,0 +1,18 @@
+{
+    "name": "SceneSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0019b12e140f7eb4dad5ef95f8a7a5df",
+        "GUID:c8b0cddf3883d5f43a6095477fa21bba",
+        "GUID:1748fc1f77659bc4a8b25b27cfd45815"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

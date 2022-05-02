@@ -1,0 +1,17 @@
+{
+    "name": "InGameResources",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c73f8dd71d786bd49987e53d82f9164a",
+        "GUID:c8b0cddf3883d5f43a6095477fa21bba"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

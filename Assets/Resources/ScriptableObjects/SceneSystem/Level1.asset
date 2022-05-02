@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af5c52abdf3c6194b8a58f4e290d08f2, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  savedColors:
+  - color: {r: 0, g: 1, b: 0.01286459, a: 1}
+  - color: {r: 1, g: 0, b: 0.8983946, a: 1}
+  savedNavAI:
+  - pointPrefab: {fileID: 1782840752, guid: 50320976216a6954aa7df119a366e0bd, type: 3}
+    pointPosition: {x: -32.5, y: -8.14, z: -76.2}
+    pointRotation: {x: 0, y: 0, z: 0, w: 1}
+    pointScale: {x: 1, y: 1, z: 1}
+  - pointPrefab: {fileID: 1055527706, guid: 91c9f71d9540f9a469986d74dc907e57, type: 3}
+    pointPosition: {x: 28.9, y: -8.14, z: -76.2}
+    pointRotation: {x: 0, y: 0, z: 0, w: 1}
+    pointScale: {x: 1, y: 1, z: 1}
+  - pointPrefab: {fileID: 984577011, guid: 395d92fb0cd14dc449023f393d16d008, type: 3}
+    pointPosition: {x: 10.565742, y: -100.257324, z: -121.95972}
+    pointRotation: {x: 0, y: 0, z: 0, w: 1}
+    pointScale: {x: 1, y: 1, z: 1}
+  - pointPrefab: {fileID: 3310105616019840516, guid: 6ed5d65f8063542428c5200e2cedf9fa, type: 3}
+    pointPosition: {x: -17.7, y: -2.3066397, z: -61.91391}
+    pointRotation: {x: -0, y: -0, z: -0, w: 1}
+    pointScale: {x: 1, y: 1, z: 1}
+  - pointPrefab: {fileID: 487459383596520439, guid: 0e25cf4314ce02840acea8640b3c3cca, type: 3}
+    pointPosition: {x: 44.26583, y: -2.3066397, z: -61.91391}
+    pointRotation: {x: -0, y: -0, z: -0, w: 1}
+    pointScale: {x: 1, y: 1, z: 1}
+  savedPrefabs:
+  - propPrefab: {fileID: 7534398076044651561, guid: fda46ef0ec50a76419e839ee38ca9f3b, type: 3}
+    savedTransforms:
+    - propPosition: {x: -8.124378, y: -14.018453, z: 3.0561163}
+      propRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
+      propScale: {x: 1, y: 1.0000002, z: 1.0000002}
+  - propPrefab: {fileID: 7433983299266833020, guid: b297792b85aab634a8b5351ffd204071, type: 3}
+    savedTransforms:
+    - propPosition: {x: 44.231064, y: -14.068072, z: -59.96775}
+      propRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
+      propScale: {x: 1, y: 1.0000002, z: 1.0000002}
+  - propPrefab: {fileID: 6703284111057736492, guid: 05400069a4f420747ae631cdee2c31c1, type: 3}
+    savedTransforms:
+    - propPosition: {x: 17.3, y: -15.9, z: 132.2}
+      propRotation: {x: 0, y: 0, z: 0, w: 1}
+      propScale: {x: 1, y: 1, z: 1}
+    - propPosition: {x: -23, y: -15.9, z: 132.2}
+      propRotation: {x: 0, y: 0, z: 0, w: 1}
+      propScale: {x: 1, y: 1, z: 1}
+  - propPrefab: {fileID: 523330988616648174, guid: 181611982b3fe61409e6dca79a0761c1, type: 3}
+    savedTransforms:
+    - propPosition: {x: -1.3970408, y: -6.8294044, z: 56.247192}
+      propRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
+      propScale: {x: 1, y: 1.0000002, z: 1.0000002}
+  - propPrefab: {fileID: 4092508772313246670, guid: f9807c9b7e72c2f4f847b6422e61f8fb, type: 3}
+    savedTransforms:
+    - propPosition: {x: -16.812616, y: -14.068072, z: -59.96775}
+      propRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
+      propScale: {x: 1, y: 1.0000002, z: 1.0000002}
+  savedRenders:
+    skyboxMat: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+    fogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    fogMode: 3
+    fogDensity: 0.01
